@@ -2,8 +2,8 @@ package FinalTask;
 
 import java.util.*;
 
-public class Customers {
-    ArrayList<Customer> customers;
+public class Customers {// классы множественным числом не называются
+    ArrayList<Customer> customers;// потерялся атрибут доступа
 
     public Customers() {
         customers = new ArrayList<>();

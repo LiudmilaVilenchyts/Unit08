@@ -96,5 +96,5 @@ public class Customer {
         return fullName;
     }
 
-
+// equals, hashCode ?
 }
